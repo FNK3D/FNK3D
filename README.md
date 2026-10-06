@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm FNK3D 👋
 
-<!--
-**FNK3D/FNK3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build interactive interfaces and small tools for creative work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+
+- 💠 **[RECAP Builder](https://github.com/FNK3D/recap-builder)** — a standalone HTML widget for building portfolio grids: circle, diamond, 3×3 square, or shards. Exports to PNG, SVG, and HTML.
+
+---
+
+### 📱 All my links in one place
+
+<a href="https://taplink.cc/fnk3d">
+  <img src="qr.png" alt="QR — all my links" width="200">
+</a>
+
+<sub>Point your phone camera at the QR code — it will take you to my [Taplink](https://taplink.cc/fnk3d) with all my links.</sub>
+
+---
+
+<sub>© 2026 FNK3D · Licensed under the MIT License</sub>
