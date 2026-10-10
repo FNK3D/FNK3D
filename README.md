@@ -8,6 +8,8 @@ I build interactive interfaces and small tools for creative work.
 
 - 💠 **[RECAP Builder](https://github.com/FNK3D/recap-builder)** — a standalone HTML widget for building portfolio grids: circle, diamond, 3×3 square, or shards. Exports to PNG, SVG, and HTML.
 
+- 🖥️ [PC Specs](https://github.com/FNK3D/pc-specs) — a universal info card widget builder. 90+ SVG icons, drag & drop, RU/EN, custom accent colors. Exports as a single HTML file.
+
 ---
 
 ### 📱 All my links in one place
